@@ -118,7 +118,7 @@ const Hero = () => {
           playsInline
           preload="auto"
           src="/videos/output.mp4"
-          className=" rounded-[100%]"
+          className=" rounded-[100%] w-full"
         />
       </div>
     </>
